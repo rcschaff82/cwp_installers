@@ -11,4 +11,4 @@ wget -O - https://raw.githubusercontent.com/rcschaff82/cwp_installers/master/cwp
 
 To Install cwp_shoutcast
 
-wget -O - https://raw.githubusercontent.com/rcschaff82/cwp_installers/master/cwp_shoutcast.install | bash
+wget -O - https://raw.githubusercontent.com/rcschaff82/cwp_installers/master/cwp_shoutcast2.install | bash
