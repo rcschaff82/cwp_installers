@@ -1,5 +1,5 @@
 /bin/bash
-yum -y install git
+yum -y install.sh git
 git clone https://github.com/rcschaff82/cwp_2fa.git
 cd cwp_2fa
-./install
+./install.sh
