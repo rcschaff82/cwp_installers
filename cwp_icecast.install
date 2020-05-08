@@ -1,5 +1,5 @@
 /bin/bash
-yum -y install.sh git
+yum -y install git
 git clone https://github.com/rcschaff82/cwp_icecast.git
 cd cwp_icecat
 ./install.sh
