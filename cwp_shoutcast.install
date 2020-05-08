@@ -1,5 +1,5 @@
-#/bin/bash
+/bin/bash
 yum -y install git
 git clone https://github.com/rcschaff82/cwp_shoutcast.git
 cd cwp_shoutcast
-#./install
+./install
