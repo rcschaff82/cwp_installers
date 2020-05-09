@@ -1,0 +1,5 @@
+#/bin/bash
+yum -y install git
+git clone https://github.com/rcschaff82/cwp_dnsreport.git
+cd cwp_dnsreport
+./install.sh
