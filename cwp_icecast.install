@@ -1,5 +1,6 @@
 #/bin/bash
 yum -y install git
+cd /usr/local/src
 git clone https://github.com/rcschaff82/cwp_icecast.git
 cd cwp_icecat
 ./install.sh
