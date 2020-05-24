@@ -12,3 +12,7 @@ wget -O - https://raw.githubusercontent.com/rcschaff82/cwp_installers/master/cwp
 To Install cwp_shoutcast
 
 wget -O - https://raw.githubusercontent.com/rcschaff82/cwp_installers/master/cwp_shoutcast2.install | bash
+
+To Install cwp_dnsreport
+
+wget -O - https://raw.githubusercontent.com/rcschaff82/cwp_installers/master/cwp_dnsreport.install | bash
