@@ -7,11 +7,11 @@ wget -O - https://raw.githubusercontent.com/rcschaff82/cwp_installers/master/cwp
 
 To Install cwp_icecast:
 
-wget -O - https://raw.githubusercontent.com/rcschaff82/cwp_installers/master/cwp_icecast.install | bash
+(Depreciated)  Directly implemented into CWP
 
 To Install cwp_shoutcast
 
-wget -O - https://raw.githubusercontent.com/rcschaff82/cwp_installers/master/cwp_shoutcast2.install | bash
+(Depreciated)  Directly implemented into CWP
 
 To Install cwp_dnsreport
 
